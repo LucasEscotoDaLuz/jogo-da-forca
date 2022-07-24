@@ -4,7 +4,7 @@
 
 ## Apresentação do jogo:
 
-** Para deixar com uma cara de site, publiquei o mesmo na Vercel, podendo acessar neste link:***************************
+** Para deixar com uma cara de site, publiquei o mesmo na Vercel, podendo acessar neste link:https://jogo-da-forca-gvbbvxdce-lucasescotodaluz.vercel.app/jogoforca.html
 
 ** Na abertura da página, automaticamente será aberto um pop-up, infromando para iniciar o jogo e "chutar uma letra".  
 
